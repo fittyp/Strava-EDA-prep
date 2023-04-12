@@ -8,11 +8,8 @@ Prepped and cleaning a data set of my own activity data to later visualize in Ta
 * Reduced_strava_df_V3.csv -- The resulting refined adn reduced dataset
 
 ## Tableau Visuals
-Bellow are some of the Visuals created using tabelau public. To interact with them feel free to check out the link bellow to my Tableau Public:
+Bellow is a link ot my the visuals I created with tableau public:
 
 [Strava Data Dive, Tableau Public](https://public.tableau.com/views/stravaV5/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-![Story 1](https://user-images.githubusercontent.com/103793940/231489107-ad41dda3-f290-4adf-9fb4-241339219e7b.jpg)
-
-![Story 1 1](https://user-images.githubusercontent.com/103793940/231489505-0ce42a7a-2d46-41d6-a81c-2a699286e0a0.jpg)
