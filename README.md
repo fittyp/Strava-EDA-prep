@@ -13,4 +13,5 @@ Bellow are some of the Visuals created using tabelau public. To interact with th
 [Strava Data Dive, Tableau Public](https://public.tableau.com/views/stravaV5/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-[Story 1.pdf](https://github.com/fittyp/Predicting_Running_Inj_Capstone/files/11212456/Story.1.pdf)
+![Story 1](https://user-images.githubusercontent.com/103793940/231489107-ad41dda3-f290-4adf-9fb4-241339219e7b.jpg)
+
